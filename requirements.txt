@@ -1,0 +1,5 @@
+easyocr
+regex
+tkinter
+flask
+git+git://github.com/jaidedai/easyocr.git
