@@ -1,16 +1,8 @@
 easyocr
 Flask
-gpu
 gunicorn
-imutils
 ipython
-matplotlib
-numpy
-opencv-python
-pandas
 Pillow
-pyinstaller
 regex
 requests
-torch
-virtualenv
+
